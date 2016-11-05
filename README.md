@@ -58,7 +58,13 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 ```c 
  	MessageBox(NULL, "Hello World! This is my first win32 program!", "Lesson1", MB_OK);
 ```
-				
+![](https://github.com/settapong123/LAB-01/blob/master/imgs/Lab11.JPG?raw=true)
+![](https://github.com/settapong123/LAB-01/blob/master/imgs/Lab12.JPG?raw=true)
+![](https://github.com/settapong123/LAB-01/blob/master/imgs/Lab14.JPG?raw=true)
+![](https://github.com/settapong123/LAB-01/blob/master/imgs/Lab15.JPG?raw=true)
+![](https://github.com/settapong123/LAB-01/blob/master/imgs/Lab16.JPG?raw=true)
+![](https://github.com/settapong123/LAB-01/blob/master/imgs/lab17.JPG?raw=true)
+![](https://github.com/settapong123/LAB-01/blob/master/imgs/lab18.JPG?raw=true)
 
 
 ##[อ้างอิง](https://github.com/Desktop-Programming-Lab-2559/LAB-01/wiki/References)
